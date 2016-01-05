@@ -1,7 +1,9 @@
 #websocketChatroom
 A simple chatroom example implemented by unsing Akka Actor in Play Framework 2.x (Java)
 
-Please see AkkaActor_Presentation.pdf to learn more.
+Please see AkkaActor_Presentation.pdf & WebsocketIntrox.pdf to learn more.
+http://www.slideshare.net/gene7299/akka-actor-presentation 
+http://www.slideshare.net/gene7299/websocketintrox
 
 0.Define
 
